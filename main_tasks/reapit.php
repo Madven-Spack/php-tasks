@@ -24,5 +24,5 @@
 // var_dump(array_count_values([1, 1, 2, 2, 3]));
 // var_dump(strip_tags('<div>Hello word</div>'));
 // var_dump(htmlspecialchars('<div>Hello word</div>'));
-var_dump(htmlentities('<div>Hello word</div>'));
+// var_dump(htmlentities('<div>Hello word</div>'));
 ?>
